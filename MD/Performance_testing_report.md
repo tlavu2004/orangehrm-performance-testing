@@ -164,3 +164,8 @@ Qua quá trình kiểm thử hiệu năng trên phiên bản OrangeHRM (Docker D
 1.  **Start Environment:** Mở Docker Desktop, Start container `orangehrm`.
 2.  **Open JMeter:** Mở lần lượt 3 file script: `Req6_LoadTest.jmx`, `Req6_StressTest.jmx`, `Req6_SpikeTest.jmx`.
 3.  **Run Test:** Nhấn nút Start và quan sát kết quả tại các Listener.
+
+---
+
+## 7. Repository:
+* Đường dẫn đến GitHub repository: [Tại đây](https://github.com/tlavu2004/orangehrm-performance-testing)
